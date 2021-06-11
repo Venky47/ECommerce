@@ -11,3 +11,91 @@
 2021-06-10 18:25:52,469 - ecommerce -INFO - Username entered
 2021-06-10 18:25:52,655 - ecommerce -INFO - Password entered
 2021-06-10 18:25:52,797 - ecommerce -INFO - login clicked
+2021-06-11 11:52:20,011 - ecommerce -INFO - -----------TC_LoginPageTest_001------------
+2021-06-11 11:52:24,087 - ecommerce -INFO - Username entered
+2021-06-11 11:52:24,259 - ecommerce -INFO - Password entered
+2021-06-11 11:52:24,441 - ecommerce -INFO - login clicked
+2021-06-11 11:53:39,722 - ecommerce -INFO - -----------TC_LoginPageTest_001------------
+2021-06-11 11:53:44,422 - ecommerce -INFO - Username entered
+2021-06-11 11:53:44,595 - ecommerce -INFO - Password entered
+2021-06-11 11:53:44,702 - ecommerce -INFO - login clicked
+2021-06-11 12:52:53,794 - ecommerce -INFO - -----------TC_LoginPageTest_001------------
+2021-06-11 12:52:58,422 - ecommerce -INFO - Username entered
+2021-06-11 12:52:58,639 - ecommerce -INFO - Password entered
+2021-06-11 12:52:58,731 - ecommerce -INFO - login clicked
+2021-06-11 12:53:11,095 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:53:15,511 - ecommerce -INFO - Username entered
+2021-06-11 12:53:15,652 - ecommerce -INFO - Password entered
+2021-06-11 12:53:15,749 - ecommerce -INFO - login clicked
+2021-06-11 12:53:15,895 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:53:20,366 - ecommerce -INFO - Username entered
+2021-06-11 12:53:20,515 - ecommerce -INFO - Password entered
+2021-06-11 12:53:20,612 - ecommerce -INFO - login clicked
+2021-06-11 12:53:20,651 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:53:23,991 - ecommerce -INFO - Username entered
+2021-06-11 12:53:24,118 - ecommerce -INFO - Password entered
+2021-06-11 12:53:24,192 - ecommerce -INFO - login clicked
+2021-06-11 12:53:24,220 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:53:26,699 - ecommerce -INFO - Username entered
+2021-06-11 12:53:26,821 - ecommerce -INFO - Password entered
+2021-06-11 12:53:26,897 - ecommerce -INFO - login clicked
+2021-06-11 12:56:52,659 - ecommerce -INFO - -----------TC_LoginPageTest_001------------
+2021-06-11 12:56:57,144 - ecommerce -INFO - Username entered
+2021-06-11 12:56:57,324 - ecommerce -INFO - Password entered
+2021-06-11 12:56:57,428 - ecommerce -INFO - login clicked
+2021-06-11 12:57:05,195 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:57:10,538 - ecommerce -INFO - Username entered
+2021-06-11 12:57:10,696 - ecommerce -INFO - Password entered
+2021-06-11 12:57:10,795 - ecommerce -INFO - login clicked
+2021-06-11 12:57:10,834 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:57:13,391 - ecommerce -INFO - Username entered
+2021-06-11 12:57:13,524 - ecommerce -INFO - Password entered
+2021-06-11 12:57:13,609 - ecommerce -INFO - login clicked
+2021-06-11 12:57:13,639 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:57:19,128 - ecommerce -INFO - Username entered
+2021-06-11 12:57:19,257 - ecommerce -INFO - Password entered
+2021-06-11 12:57:19,333 - ecommerce -INFO - login clicked
+2021-06-11 12:57:19,361 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:57:23,678 - ecommerce -INFO - Username entered
+2021-06-11 12:57:23,800 - ecommerce -INFO - Password entered
+2021-06-11 12:57:23,869 - ecommerce -INFO - login clicked
+2021-06-11 12:59:33,239 - ecommerce -INFO - -----------TC_LoginPageTest_001------------
+2021-06-11 12:59:36,853 - ecommerce -INFO - Username entered
+2021-06-11 12:59:37,028 - ecommerce -INFO - Password entered
+2021-06-11 12:59:37,128 - ecommerce -INFO - login clicked
+2021-06-11 12:59:54,144 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 12:59:59,473 - ecommerce -INFO - Username entered
+2021-06-11 12:59:59,616 - ecommerce -INFO - Password entered
+2021-06-11 12:59:59,747 - ecommerce -INFO - login clicked
+2021-06-11 12:59:59,786 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 13:00:05,128 - ecommerce -INFO - Username entered
+2021-06-11 13:00:05,259 - ecommerce -INFO - Password entered
+2021-06-11 13:00:05,330 - ecommerce -INFO - login clicked
+2021-06-11 13:00:05,359 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 13:00:08,742 - ecommerce -INFO - Username entered
+2021-06-11 13:00:08,870 - ecommerce -INFO - Password entered
+2021-06-11 13:00:08,942 - ecommerce -INFO - login clicked
+2021-06-11 13:00:08,968 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 13:00:11,490 - ecommerce -INFO - Username entered
+2021-06-11 13:00:11,609 - ecommerce -INFO - Password entered
+2021-06-11 13:00:11,683 - ecommerce -INFO - login clicked
+2021-06-11 13:10:03,310 - ecommerce -INFO - -----------TC_LoginPageTest_001------------
+2021-06-11 13:10:08,752 - ecommerce -INFO - Username entered
+2021-06-11 13:10:08,945 - ecommerce -INFO - Password entered
+2021-06-11 13:10:09,047 - ecommerce -INFO - login clicked
+2021-06-11 13:10:20,000 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 13:10:25,382 - ecommerce -INFO - Username entered
+2021-06-11 13:10:25,531 - ecommerce -INFO - Password entered
+2021-06-11 13:10:25,626 - ecommerce -INFO - login clicked
+2021-06-11 13:10:25,672 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 13:10:29,963 - ecommerce -INFO - Username entered
+2021-06-11 13:10:30,101 - ecommerce -INFO - Password entered
+2021-06-11 13:10:30,198 - ecommerce -INFO - login clicked
+2021-06-11 13:10:30,237 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 13:10:33,570 - ecommerce -INFO - Username entered
+2021-06-11 13:10:33,698 - ecommerce -INFO - Password entered
+2021-06-11 13:10:33,774 - ecommerce -INFO - login clicked
+2021-06-11 13:10:33,802 - ecommerce -INFO - -----------TC_LoginDDT_002------------
+2021-06-11 13:10:38,102 - ecommerce -INFO - Username entered
+2021-06-11 13:10:38,224 - ecommerce -INFO - Password entered
+2021-06-11 13:10:38,299 - ecommerce -INFO - login clicked
